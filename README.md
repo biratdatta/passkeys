@@ -1,10 +1,4 @@
-<img width="1070" alt="GitHub Repo Cover" src="https://github.com/corbado/corbado-php/assets/18458907/aa4f9df6-980b-4b24-bb2f-d71c0f480971">
-
-# Next.js (TypeScript) Passkey Example App
-
-This is a sample implementation of the Corbado React package and Corbado Node SDK being integrated into a web application built with Next.js.
-
-Please see the [full blog post](https://www.corbado.com/blog/nextjs-passkeys) to understand the detailed steps needed to integrate passkeys into Next.js apps.
+ 
 
 ## File structure
 
@@ -19,8 +13,7 @@ Please see the [full blog post](https://www.corbado.com/blog/nextjs-passkeys) to
 
 ### Prerequisites
 
-Please follow the steps in [Getting started](https://docs.corbado.com/overview/getting-started) to create and configure
-a project in the [Corbado developer panel](https://app.corbado.com/signin#register).
+ 
 
 You need to have [Node](https://nodejs.org/en/download) and `npm` installed to run it.
 
